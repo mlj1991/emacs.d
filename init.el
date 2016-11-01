@@ -101,6 +101,7 @@
 (require 'init-ruby-mode)
 (require 'init-rails)
 (require 'init-sql)
+(require 'init-scala)
 
 (require 'init-paredit)
 (require 'init-lisp)
